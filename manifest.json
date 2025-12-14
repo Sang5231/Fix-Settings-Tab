@@ -1,11 +1,11 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Tab List Fix Pack",
-    "description": "Fixes the player list/tab menu alignment.",
+    "name": "Fix Setting Screen",
+    "description": "Fixes the setting menu alignment.",
     "uuid": "0f2e28db-5fdb-4b46-9465-23c65a54529b",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 21, 90]
+    "min_engine_version": [1, 21, 100]
   },
   "modules": [
     {
