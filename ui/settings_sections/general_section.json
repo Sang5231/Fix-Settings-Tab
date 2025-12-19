@@ -3017,7 +3017,7 @@
     "size": [ "100%", "100%c" ],
     "anchor_from": "top_left",
     "anchor_to": "top_left",
-    "$spatialPatternsPadding": [ "100%", 25 ],
+    "$spatialPatternsPadding": [ "100%", 8 ],
     "$education_ios": "($education_edition and $is_ios)",
     "bindings": [
       {
@@ -5828,7 +5828,7 @@
   "sound_section": {
     "type": "stack_panel",
     "size": [ "100%", "100%c" ],
-    "$spatialPatternsPadding": [ "100%", 36 ],
+    "$spatialPatternsPadding": [ "100%", 16 ],
     "$audioSlidersSize": [ "75% - 2px", 16 ],
     "anchor_from": "top_left",
     "anchor_to": "top_left",
