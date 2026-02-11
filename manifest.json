@@ -13,5 +13,19 @@
       "uuid": "03dfdb56-4a01-4ae6-b52a-ee6085abf5b3",
       "version": [1, 0, 0]
     }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "v26-0",
+      "description": "v26.0+",
+      "name": "v26.0+",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "v1-21-100",
+      "description": "v1.21.100 - v1.21.30+",
+      "name": "v1.21.30- (default)",
+      "memory_tier": 0
+    }
   ]
 }
